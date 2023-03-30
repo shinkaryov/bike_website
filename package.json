@@ -1,0 +1,24 @@
+{
+  "name": "bike_website",
+  "version": "1.0.0",
+  "description": "Website for bike rent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./src/index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinkaryov/bike_website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinkaryov/bike_website/issues"
+  },
+  "homepage": "https://github.com/shinkaryov/bike_website#readme",
+  "devDependencies": {
+    "parcel": "^1.12.3"
+  }
+}
